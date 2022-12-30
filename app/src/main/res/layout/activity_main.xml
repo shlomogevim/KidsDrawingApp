@@ -136,7 +136,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:scaleType="fitXY"
-            android:src="@drawable/gallery" />
+            android:src="@drawable/gallery1" />
 
         <ImageButton
             android:id="@+id/ib_action_buttons"
